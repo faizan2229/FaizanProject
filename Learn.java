@@ -1,4 +1,4 @@
 java coding.
 
-  check two strings are anagram or not
+  check two strings are anagram or not.
 
