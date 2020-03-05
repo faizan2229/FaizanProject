@@ -2,4 +2,5 @@ java coding.
 
   check two strings are anagram or not.
 
-sql-queries
+basic codings and commit file
+
